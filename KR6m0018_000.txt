@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 壹輸盧迦論
+#+DATE: 2015-08-30 20:53:26.887879
+#+PROPERTY: JUAN 0
